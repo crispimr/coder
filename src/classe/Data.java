@@ -1,3 +1,5 @@
+// Classe criada para exemplo de data
+
 package classe;
 
 public class Data {
